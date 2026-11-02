@@ -1,13 +1,34 @@
 <!--
-author:
-email:
-version: dummy
+author: Vor- und Nachname (ORCID)
+
+email: e-mail
+
+version:  v1
+
 language: DE
-icon:
-link:
-licence:
-comment: OER.net FDM-Basiskurs – Input-Brick
+
+icon: https://avatars.githubusercontent.com/u/124135835?s=400&u=4b7d7dba97d3d1447f826b5dea22b496cf8a8f26&v=4 
+
+link: https://raw.githubusercontent.com/RDM4CAU/OER_playground/refs/heads/main/hier kann man ein eigenes css einhängen, wenn man möchte
+
+licence: CC BY
+
+comment: Mirco-Content zum Lernziel "Titel". Dieses Modul ist Teil eines Einführungskurses zum Forschungsdatenmanagement, der von “OER.net UAG FDM-Basiskurs” auf Grundlage der Lernzielmatrix zum FDM entwickelt wurde. Der Basiskurs entwickelt das Konzept der EduBricks weiter und ist als “Arbeitsgruppe 3: Einbettung und Vernetzung des modularen und skalierbaren Konzeptes” zudem Teil der NFDI-Sektion Education and Training (EduTrain).
+
+title: Titel
+
+description: Dieses Template wurde als Vorlage für die Entwicklung von Microlearning-Content zum Themenbereich Forschungsdatenmanagement (FDM) in Orientierung an Lernzielen der [Lernzielmatrix zum Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246) entwickelt.
+
+keywords: 3-5 Schlagworte
+
+community: 
+
+PublicationDate: noch unveröffentlicht
+
+LearningResourceType: Microlearning Unit
+
 -->
+
 
 # [Kurztitel der Einheit]
 
