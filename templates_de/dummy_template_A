@@ -1,0 +1,106 @@
+<!--
+author:
+email:
+version: dummy
+language: DE
+icon:
+link:
+licence:
+comment: OER.net FDM-Basiskurs – Template für Aktivitäts-Bricks
+-->
+
+# Template für die Erarbeitung eines Aktivitäts-Bricks anhand eines Lernziels für den generischen FDM-Basiskurs
+
+<!-- Bearbeitungshinweis (vor Veröffentlichung entfernen):
+Eine Datei pro Lernziel und Sozialform. Mehrere Methoden derselben Sozialform können in einem Brick beschrieben werden.
+Dateiname: [LZM-ID]_[Stichwort-Inhalt]_A_[Sozialform].md
+Sozialform: Plenum | Gruppenarbeit | Partner:innenarbeit | Einzelarbeit
+Beispiel: 01_001_0007_Forschungsdatenmanagement_A_Plenum.md
+Im Bearbeitungsstatus optional Namenskürzel voranstellen, z. B. du_01_001_0007_Forschungsdatenmanagement_A_Plenum.md.
+Platzhalter in eckigen Klammern ersetzen, nicht benötigte optionale Abschnitte entfernen.
+-->
+
+# [Kurztitel der Einheit] – Aktivität: [Sozialform]
+
+## Lernziel dieser Einheit
+
+> **Der folgende Lehr-/Lerninhalt adressiert das folgende Lernziel (LZM-FDM v3, 2025):**
+>
+> - Lernende können […] (LZM-ID: 01_000_0000)
+
+### Vorausgesetzte Lernziele <!-- optional -->
+
+> - [Lernziel und LZM-ID](Link)
+
+### Weiterführende Lernziele <!-- optional -->
+
+> - [Lernziel und LZM-ID](Link)
+
+## Bezug zum fachlichen Input
+
+[Kurzer Hinweis, welches Wissen die Aktivität aufgreift. Link zum zugehörigen Input-Brick: `[LZM-ID]_[Stichwort-Inhalt]_I.md`. Keine Wiederholung des gesamten fachlichen Inhalts.]
+
+## Didaktische Umsetzung
+
+**Sozialform:** [Plenum / Gruppenarbeit / Partner:innenarbeit / Einzelarbeit]
+
+[Kurze Einführung: Wie tragen die folgenden Methoden zur Erreichung des Lernziels bei?]
+
+### Methode 1: [Name der Methode]
+
+[Kurze Beschreibung der Methode und ihres didaktischen Zwecks.]
+
+| Parameter | Angabe |
+| --- | --- |
+| Ziel der didaktischen Methode | [z. B. Vorwissen aktivieren, Wissen erarbeiten, Ergebnisse sichern] |
+| Gruppengröße | [z. B. 3–5 Personen je Gruppe] |
+| Zeit | [x–xx Minuten] |
+| Lehrveranstaltungsphase | [Orientierung / Erarbeitung / Ergebnissicherung / Feedback] |
+| Vorbereitungsaufwand <!-- optional --> | [gering / mittel / hoch] |
+
+**Vorbereitung und Materialien**
+
+- [Vorbereitende Schritte und benötigte Materialien]
+
+**Ablauf**
+
+1. **[Schritt 1, ca. x Min.]** [Handlung der Lehrperson und/oder der Lernenden]
+2. **[Schritt 2, ca. x Min.]** [Handlung]
+3. **[Schritt 3, ca. x Min.]** [Ergebnissicherung und Bezug zum Lernziel]
+
+**Werkzeuge:** [Konkrete Werkzeuge bzw. Alternativen, z. B. Videokonferenztool, Online-Pad; ggf. Links]
+
+### Methode 2: [Name der Methode] <!-- optional; Abschnitt nach Bedarf duplizieren -->
+
+[Beschreibung; Parametertabelle, Vorbereitung, Ablauf und Werkzeuge analog zu Methode 1 ergänzen.]
+
+## Hinweise <!-- optional -->
+
+[Hinweise zur Durchführung, Barrierefreiheit, digitalen oder hybriden Umsetzung, Vorbereitung und technischen Voraussetzungen.]
+
+## Werkzeuge für das virtuelle Klassenzimmer
+
+<!-- Benötigte Werkzeuge mit x markieren; nicht benötigte Werkzeuge unmarkiert lassen. -->
+
+- [ ] Videokonferenztool (z. B. BigBlueButton, Zoom)
+- [ ] Präsentationstool (z. B. PowerPoint, LiaScript)
+- [ ] Quiz-/Umfragetool (z. B. LiaScript Classroom, Mentimeter)
+- [ ] Virtuelles Whiteboard (z. B. Miro)
+- [ ] Tool für kollaboratives Texten (z. B. ZUMpad)
+- [ ] Lernplattform (z. B. Moodle)
+- [ ] Sonstige Werkzeuge: [Angabe]
+
+---
+
+## Methodenpool und Quellen
+
+- [Methode 1: Quellenangabe, ggf. Seitenzahl, DOI und/oder Link]
+- [Methode 2: Quellenangabe, ggf. Seitenzahl, DOI und/oder Link]
+
+## Lizenzhinweise & Autor:innen
+
+Lizenz: [z. B. CC BY 4.0, sofern zutreffend]
+
+Autor:in: [Name]
+
+Kontakt: [E-Mail, optional]
