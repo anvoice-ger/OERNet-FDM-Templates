@@ -27,9 +27,13 @@ Wir arbeiten verbindlich, pünktlich und mit Fokus auf gemeinsame inhaltliche Zi
 ## 9. Datenschutz
 Der Schutz personenbezogener Daten ist uns wichtig. Wir verpflichten uns zur Einhaltung der EU-Datenschutzgrundverordnung (DSGVO) und behandeln personenbezogene Daten vertraulich.
 
-
 ## Hinweis: 
 Unsere Zusammenarbeit basiert auf diesem Code of Conduct. Verstöße gegen diese Grundsätze können dazu führen, dass die Zusammenarbeit beendet wird.
+
+Andrea Polywka and Britta Petersen sind verantwortlich für die Einhaltung des Code of Conducts. Sie können unter folgenden E-Mail-Adressen erreicht werden
+
+    Andrea Polywka: polywka@staff.uni-marburg.de
+    Britta Petersen: b.petersen@rz.uni-kiel.de
 
 ### Quelle:
 Übernommen von der UAG Schulung/Fortbildung der DINI/nestor AG Forschungsdaten: https://www.forschungsdaten.org/index.php/UAG_Schulungen/Fortbildungen#Code_of_Conduct 
